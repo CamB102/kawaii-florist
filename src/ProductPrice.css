@@ -1,0 +1,47 @@
+body{
+    background-color: #cadcd1;
+}
+
+h1{
+    color: #254d33;
+    font-size: 40px;
+    text-align: center;
+}
+
+.display{
+    display: flex;
+    flex-direction: row;
+    padding: 50px 20px 0 20px;
+}
+
+.Productprice{
+    background-color: #a4bca4;
+    max-width: 20%;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #447d58;
+    
+}
+
+
+button{
+    width: 90px;
+    height: 40px;
+    border-radius: 4px;
+    border-color:#447d58;
+    cursor: pointer;
+}
+
+.Productprice .name{
+    color: #447d58;
+}
+
+.sale-label{
+    color: rgb(222, 125, 125);
+    font-weight:bold;
+}
+
+img{
+    border: 2px solid white;
+}
